@@ -21,6 +21,4 @@ Run BTD_Tractography.m
 ---
 
 Lei Xie, leix@zjut.edu.cn# BTD
-# BTD-Tractography
-# BTD-Tractography
-# BTD-Tractography
+
