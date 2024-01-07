@@ -12,6 +12,7 @@ Run BTD_Tractography.m
 # Result
 #*the tractography results on Hough data*
 ![Untitled](PIC/pic2.png)
+
 #**the tractography results on #100307 HCP dataset**
 ![Untitled](PIC/cst_cc_af.png)
 
